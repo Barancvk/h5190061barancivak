@@ -1,0 +1,269 @@
+{
+	"Araclar": [{
+			"BirinciFotoUrl":"https://raw.githubusercontent.com/Barancvk/h5190061barancivak/main/mercedeskapak/kapak_amga45s4matic.jpg",
+			"IkinciFotoUrl":"https://raw.githubusercontent.com/Barancvk/h5190061barancivak/main/mercedeslogo/logo_amga45s4matic.jpg",
+			"Model": "Mercedes-AMG A 45 S4MATIC+",
+			"Yil": "2020",
+			"Fiyat": "1.280.500TL",
+			"MotorHacmi": "1.9L",
+			"VitesTipi": "OTOMATİK",
+			"YakitTipi": "Benzin",
+			"Beygir": "421 bg"
+
+		},
+
+		{
+			"BirinciFotoUrl":"https://raw.githubusercontent.com/Barancvk/h5190061barancivak/main/mercedeskapak/kapak_b180.jpeg",
+			"IkinciFotoUrl":"https://raw.githubusercontent.com/Barancvk/h5190061barancivak/main/mercedeslogo/logo_b180.jpg",
+			"Model": "Mercedes-Benz B180",
+			"Yil": "2020",
+			"Fiyat": "426.500TL",
+			"MotorHacmi": "1.3L",
+			"VitesTipi": "OTOMATİK",
+			"YakitTipi": "Benzin",
+			"Beygir": "136 bg"
+
+		},
+		{
+			"BirinciFotoUrl":"https://raw.githubusercontent.com/Barancvk/h5190061barancivak/main/mercedeskapak/kapak_a180sedan.jpg",
+			"IkinciFotoUrl":"https://raw.githubusercontent.com/Barancvk/h5190061barancivak/main/mercedeslogo/logo_a180sedan.jpg",
+			"Model": "Mercedes-AMG A180d Sedan",
+			"Yil": "2020",
+			"Fiyat": "502.000TL",
+			"MotorHacmi": "1.4L",
+			"VitesTipi": "OTOMATİK",
+			"YakitTipi": "Benzin",
+			"Beygir": "116 bg"
+
+		},
+		{
+			"BirinciFotoUrl":"https://raw.githubusercontent.com/Barancvk/h5190061barancivak/main/mercedeskapak/kapak_amgc200d.jpg",
+			"IkinciFotoUrl":"https://raw.githubusercontent.com/Barancvk/h5190061barancivak/main/mercedeslogo/logo_amgc200.jpg",
+			"Model": "Mercedes-AMG C200d ",
+			"Yil": "2020",
+			"Fiyat": "680.000",
+			"MotorHacmi": "1.5L",
+			"VitesTipi": "OTOMATİK",
+			"YakitTipi": "Benzin",
+			"Beygir": "160 bg"
+
+		},
+		{
+			"BirinciFotoUrl":"https://raw.githubusercontent.com/Barancvk/h5190061barancivak/main/mercedeskapak/kapak_e63s.jpg",
+			"IkinciFotoUrl":"https://raw.githubusercontent.com/Barancvk/h5190061barancivak/main/mercedeslogo/logo_e63s4matic.jpg",
+			"Model": "Mercedes-AMG E63 S 4MATIC+",
+			"Yil": "2020",
+			"Fiyat": "3.582.000TL",
+			"MotorHacmi": "3.9L",
+			"VitesTipi": "OTOMATİK",
+			"YakitTipi": "Benzin",
+			"Beygir": "612 bg"
+
+		},
+		{
+			"BirinciFotoUrl":"https://raw.githubusercontent.com/Barancvk/h5190061barancivak/main/mercedeskapak/kapak_s400d.jpg",
+			"IkinciFotoUrl":"https://raw.githubusercontent.com/Barancvk/h5190061barancivak/main/mercedeslogo/logo_s400d4matic.jpg",
+			"Model": "Mercedes-Benz S400d 4MATIC L",
+			"Yil": "2020",
+			"Fiyat": "3.361.000TL",
+			"MotorHacmi": "2.9L",
+			"VitesTipi": "OTOMATİK",
+			"YakitTipi": "Dizel",
+			"Beygir": "340 bg"
+
+		},
+		{
+			"BirinciFotoUrl":"https://raw.githubusercontent.com/Barancvk/h5190061barancivak/main/mercedeskapak/kapak_maybach.jpg",
+			"IkinciFotoUrl":"https://raw.githubusercontent.com/Barancvk/h5190061barancivak/main/mercedeslogo/logo_maybachs560.jpg",
+			"Model": "Mercedes-Maybach S560 4MATIC",
+			"Yil": "2020",
+			"Fiyat": "4.832.000TL",
+			"MotorHacmi": "3.9L",
+			"VitesTipi": "OTOMATİK",
+			"YakitTipi": "Benzin",
+			"Beygir": "469 bg"
+
+		},
+		{
+			"BirinciFotoUrl":"https://raw.githubusercontent.com/Barancvk/h5190061barancivak/main/mercedeskapak/kapak_c200destatae.jpeg",
+			"IkinciFotoUrl":"https://raw.githubusercontent.com/Barancvk/h5190061barancivak/main/mercedeslogo/logo_c200estate.jpeg",
+			"Model": "Mercedes-Benz C200d Estate",
+			"Yil": "2020",
+			"Fiyat": "700.500TL",
+			"MotorHacmi": "1.5L",
+			"VitesTipi": "OTOMATİK",
+			"YakitTipi": "Dizel",
+			"Beygir": "160 bg"
+
+		},
+		{
+			"BirinciFotoUrl":"https://raw.githubusercontent.com/Barancvk/h5190061barancivak/main/mercedeskapak/kapak_cla45s.jpg",
+			"IkinciFotoUrl":"https://raw.githubusercontent.com/Barancvk/h5190061barancivak/main/mercedeslogo/logo_cla45s.jpeg",
+			"Model": "Mercedes-AMG CLA 45S 4MATIC+",
+			"Yil": "2020",
+			"Fiyat": "1.324.500TL",
+			"MotorHacmi": "1.9L",
+			"VitesTipi": "OTOMATİK",
+			"YakitTipi": "Benzin",
+			"Beygir": "421 bg"
+
+		},
+		{
+			"BirinciFotoUrl":"https://raw.githubusercontent.com/Barancvk/h5190061barancivak/main/mercedeskapak/kapak_c200coupe.jpg",
+			"IkinciFotoUrl":"https://raw.githubusercontent.com/Barancvk/h5190061barancivak/main/mercedeslogo/logo_c200coupe.jpg",
+			"Model": "Mercedes-Benz C200 4MATIC Coupé",
+			"Yil": "2020",
+			"Fiyat": "747.000TL",
+			"MotorHacmi": "1.4L",
+			"VitesTipi": "OTOMATİK",
+			"YakitTipi": "Benzin",
+			"Beygir": "184 bg"
+
+		},
+		{
+			"BirinciFotoUrl":"https://raw.githubusercontent.com/Barancvk/h5190061barancivak/main/mercedeskapak/kapak_e300coupe.jpg",
+			"IkinciFotoUrl":"https://raw.githubusercontent.com/Barancvk/h5190061barancivak/main/mercedeslogo/logo_e300coupe.jpg",
+			"Model": "Mercedes-Benz E300 Coupé",
+			"Yil": "2020",
+			"Fiyat": "1.421.000TL",
+			"MotorHacmi": "1.9L",
+			"VitesTipi": "OTOMATİK",
+			"YakitTipi": "Benzin",
+			"Beygir": "258 bg"
+
+		},
+		{
+			"BirinciFotoUrl":"https://raw.githubusercontent.com/Barancvk/h5190061barancivak/main/mercedeskapak/kapak_cls53.jpeg",
+			"IkinciFotoUrl":"https://raw.githubusercontent.com/Barancvk/h5190061barancivak/main/mercedeslogo/logo_cls534Matic.jpeg",
+			"Model": "Mercedes-AMG CLS 53 4MATIC+",
+			"Yil": "2020",
+			"Fiyat": "2.425.000TL",
+			"MotorHacmi": "2.9L",
+			"VitesTipi": "OTOMATİK",
+			"YakitTipi": "Benzin",
+			"Beygir": "435 bg"
+
+		},
+		{
+			"BirinciFotoUrl":"https://raw.githubusercontent.com/Barancvk/h5190061barancivak/main/mercedeskapak/kapak_glc300d.jpg",
+			"IkinciFotoUrl":"https://raw.githubusercontent.com/Barancvk/h5190061barancivak/main/mercedeslogo/logo_glc300d.jpg",
+			"Model": "Mercedes-Benz GLC 300d 4MATIC",
+			"Yil": "2020",
+			"Fiyat": "1.268.500TL",
+			"MotorHacmi": "1.9L",
+			"VitesTipi": "OTOMATİK",
+			"YakitTipi": "Dizel",
+			"Beygir": "245 bg"
+
+		},
+		{
+			"BirinciFotoUrl":"https://raw.githubusercontent.com/Barancvk/h5190061barancivak/main/mercedeskapak/kapak_c200cabrio.jpg",
+			"IkinciFotoUrl":"https://raw.githubusercontent.com/Barancvk/h5190061barancivak/main/mercedeslogo/logo_c200cabrio.jpg",
+			"Model": "Mercedes-Benz C200 Cabriolet",
+			"Yil": "2020",
+			"Fiyat": "844.000TL",
+			"MotorHacmi": "1.4L",
+			"VitesTipi": "OTOMATİK",
+			"YakitTipi": "Benzin",
+			"Beygir": "184 bg"
+
+		},
+		{
+			"BirinciFotoUrl":"https://raw.githubusercontent.com/Barancvk/h5190061barancivak/main/mercedeskapak/kapak_e300cabri.jpg",
+			"IkinciFotoUrl":"https://raw.githubusercontent.com/Barancvk/h5190061barancivak/main/mercedeslogo/logo_e300cabrio.jpg",
+			"Model": "Mercedes-Benz E300 Cabriolet",
+			"Yil": "2020",
+			"Fiyat": "1.634.000TL",
+			"MotorHacmi": "1.9L",
+			"VitesTipi": "OTOMATİK",
+			"YakitTipi": "Benzin",
+			"Beygir": "258 bg"
+
+		},
+		{
+			"BirinciFotoUrl":"https://raw.githubusercontent.com/Barancvk/h5190061barancivak/main/mercedeskapak/kapak_gla200.jpg",
+			"IkinciFotoUrl":"https://raw.githubusercontent.com/Barancvk/h5190061barancivak/main/mercedeslogo/logo_gla200.jpg",
+			"Model": "Mercedes-Benz GLA 200 ",
+			"Yil": "2020",
+			"Fiyat": "635.000TL",
+			"MotorHacmi": "1.3L",
+			"VitesTipi": "OTOMATİK",
+			"YakitTipi": "Benzin",
+			"Beygir": "163 bg"
+
+		},
+		{
+			"BirinciFotoUrl":"https://raw.githubusercontent.com/Barancvk/h5190061barancivak/main/mercedeskapak/kapak_glb200.jpg",
+			"IkinciFotoUrl":"https://raw.githubusercontent.com/Barancvk/h5190061barancivak/main/mercedeslogo/logo_glb200.jpg",
+			"Model": "Mercedes-Benz GLB 200",
+			"Yil": "2020",
+			"Fiyat": "664.000TL",
+			"MotorHacmi": "1.3L",
+			"VitesTipi": "OTOMATİK",
+			"YakitTipi": "Benzin",
+			"Beygir": "163 bg"
+
+		},
+		{
+			"BirinciFotoUrl":"https://raw.githubusercontent.com/Barancvk/h5190061barancivak/main/mercedeskapak/kapak_eqc400.jpg",
+			"IkinciFotoUrl":"https://raw.githubusercontent.com/Barancvk/h5190061barancivak/main/mercedeslogo/logo_eqc400.jpg",
+			"Model": "Mercedes-Benz EQC 400 4MATIC",
+			"Yil": "2020",
+			"Fiyat": "966.000TL",
+			"MotorHacmi": "----",
+			"VitesTipi": "-----",
+			"YakitTipi": "Elektrik",
+			"Beygir": "408 bg"
+
+		},
+		{
+			"BirinciFotoUrl":"https://raw.githubusercontent.com/Barancvk/h5190061barancivak/main/mercedeskapak/kapak_g63.jpg",
+			"IkinciFotoUrl":"https://raw.githubusercontent.com/Barancvk/h5190061barancivak/main/mercedeslogo/logo_amgg63.jpg",
+			"Model": "Mercedes-AMG G63",
+			"Yil": "2020",
+			"Fiyat": "4.320.000TL",
+			"MotorHacmi": "3.9LT",
+			"VitesTipi": "Otomatik",
+			"YakitTipi": "Benzin",
+			"Beygir": "585 bg"
+
+		},
+		{
+			"BirinciFotoUrl":"https://raw.githubusercontent.com/Barancvk/h5190061barancivak/main/mercedeskapak/kapak_gt63s.jpg",
+			"IkinciFotoUrl":"https://raw.githubusercontent.com/Barancvk/h5190061barancivak/main/mercedeslogo/logo_amggt63s4matic.jpg",
+			"Model": "Mercedes-AMG GT 63S 4MATIC+",
+			"Yil": "2020",
+			"Fiyat": "4.832.000",
+			"MotorHacmi": "3.9LT",
+			"VitesTipi": "Otomatik",
+			"YakitTipi": "Benzin",
+			"Beygir": "639 bg"
+
+		},
+		{
+			"BirinciFotoUrl":"https://raw.githubusercontent.com/Barancvk/h5190061barancivak/main/mercedeskapak/kapak_amgtrcoupe.jpg",
+			"IkinciFotoUrl":"https://raw.githubusercontent.com/Barancvk/h5190061barancivak/main/mercedeslogo/logo_amggtrcoupe.jpg",
+			"Model": "Mercedes-AMG GT R Coupé",
+			"Yil": "2020",
+			"Fiyat": "5.385.000TL",
+			"MotorHacmi": "3.9LT",
+			"VitesTipi": "Otomatik",
+			"YakitTipi": "Benzin",
+			"Beygir": "585 bg"
+
+		},
+		{
+			"BirinciFotoUrl":"https://raw.githubusercontent.com/Barancvk/h5190061barancivak/main/mercedeskapak/kapak_amggtroadster.jpg",
+			"IkinciFotoUrl":"https://raw.githubusercontent.com/Barancvk/h5190061barancivak/main/mercedeslogo/logo_amggtCroadster.jpeg",
+			"Model": "Mercedes-AMG GT C Roadster",
+			"Yil": "2020",
+			"Fiyat": "5.140.000TL",
+			"MotorHacmi": "3.9LT",
+			"VitesTipi": "Otomatik",
+			"YakitTipi": "Benzin",
+			"Beygir": "557 bg"
+
+		}
+
+	]
+}
