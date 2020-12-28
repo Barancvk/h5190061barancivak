@@ -1,5 +1,5 @@
-{
-	"Araclar": [{
+[
+	 	{
 			"BirinciFotoUrl":"https://raw.githubusercontent.com/Barancvk/h5190061barancivak/main/mercedeskapak/kapak_amga45s4matic.jpg",
 			"IkinciFotoUrl":"https://raw.githubusercontent.com/Barancvk/h5190061barancivak/main/mercedeslogo/logo_amga45s4matic.jpg",
 			"Model": "Mercedes-AMG A 45 S4MATIC+",
@@ -265,5 +265,5 @@
 
 		}
 
-	]
-}
+	
+]
